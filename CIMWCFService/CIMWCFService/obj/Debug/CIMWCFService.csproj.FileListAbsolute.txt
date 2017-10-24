@@ -1,0 +1,14 @@
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\bin\CIMWCFService.dll.config
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\bin\CIMWCFService.dll
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\bin\CIMWCFService.pdb
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.csproj.CoreCompileInputs.cache
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.dll
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.pdb
+C:\Users\second.chen\source\repos\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.csprojResolveAssemblyReference.cache
+D:\SourceCode\CIMWCFService\CIMWCFService\bin\CIMWCFService.dll.config
+D:\SourceCode\CIMWCFService\CIMWCFService\bin\CIMWCFService.dll
+D:\SourceCode\CIMWCFService\CIMWCFService\bin\CIMWCFService.pdb
+D:\SourceCode\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.csprojResolveAssemblyReference.cache
+D:\SourceCode\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.csproj.CoreCompileInputs.cache
+D:\SourceCode\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.dll
+D:\SourceCode\CIMWCFService\CIMWCFService\obj\Debug\CIMWCFService.pdb
